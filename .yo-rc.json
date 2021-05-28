@@ -42,7 +42,9 @@
     "jwtSecretKey": "MDUwOGNhNDA4N2E3NzExNTk0MjZmMzc2NTI4NTk1YTEyMjU0MjgwMjJmN2JiYTViNjU5MDJkZDQ2ZDU3NGE4ZTcxZjU2OWM5NmNmZWU2OTJhZTM5MGU0ZGE1YjRjMDFkYjJjZDJmOWVhY2RkOTQ2ZTBmOTczODc2YTFiNjc2MGE=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1622213077000
   },
   "git-provider": "GitHub",
   "git-company": "frazzi",
